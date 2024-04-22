@@ -1,1 +1,1 @@
-# Traffic-accident-data
+the study of the traffic accident dataset provided useful insights into the factors that influenc the number of victims. The analysis of several statistical measures, such as summary statistics, correlation matrix, and additional moments, offered a thorough comprehension of data distribution and correlations. 
